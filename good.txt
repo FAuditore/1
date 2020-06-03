@@ -1,6 +1,0 @@
-asdfsafas
-<<<<<<< HEAD
-fdsafdfsafsasafsa
-=======
-asdfasfdsafsafsa
->>>>>>> master
